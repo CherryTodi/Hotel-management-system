@@ -1,0 +1,10 @@
+HOTEL MANAGEMENT SYSTEM IN C PROGRAMMING
+
+
+LOGIN DETAILS:
+
+
+Username: cherry
+Password: root
+
+THANKYOU
